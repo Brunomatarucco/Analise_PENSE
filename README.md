@@ -8,4 +8,4 @@ Para mais informações entre no site do IBGE que você obterá a descrição co
 
 ---
 
-Esse estudo objetivou a análise 
+O estudo objetivou a análise dos dados socioeconômicos, situação de habitação, uso de drogas lícitas, ilícitas e situações na escola/bullying, só que fazendo uma comparação das respostas de acordo com a raça ou cor dos respondentes.
